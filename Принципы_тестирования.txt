@@ -1,0 +1,8 @@
+Принципы тестирования
+1)	Тестирование показывает наличие дефектов (Testing shows presence of defects)
+2)	Исчерпывающее тестирование невозможно (Exhaustive testing is impossible)
+3)	Раннее тестирование (Early testing)
+4)	Скопление дефектов (принцип Паретта – 80% дефектов находится в 20% функций)  (Defects clustering)
+5)	Парадокс пестицида (Pesticide paradox)
+6)	Тестирование зависит от контекста  (Testing is concept depending)
+7)	Заблуждение об отсутствии ошибок  (Absence-of-errors fallacy)
